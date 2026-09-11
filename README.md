@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Meriem Selmoune
 
-<!--
-**MerMerIem/MerMerIem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student at Université d'Alger USTHB / Benyoucef Ben Khedda, 
+currently looking for a **final-year internship (PFE)**.
 
-Here are some ideas to get you started:
+### What I work with
+### 📊 Data Analysis & Machine Learning
+![Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,jupyter,mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Development
+![Skills](https://skillicons.dev/icons?i=react,nodejs,express,mysql,html,css,js,tailwind)
+
+### ⚙️ DevOps & Server Tools
+![Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,vercel,azure)
+
+### Let's connect
+I'm actively looking for an internship opportunity — feel free to reach out!
+- selmounemeriem@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/meriem-selmoune-a22407346/)
