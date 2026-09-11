@@ -8,7 +8,7 @@ currently looking for a **final-year internship (PFE)**.
 ![Skills](https://skillicons.dev/icons?i=python,sklearn,mysql)
 
 ### 🌐 Web Development
-![Skills](https://skillicons.dev/icons?i=react,nodejs,express,mysql,html,css,js,tailwind, K6)
+![Skills](https://skillicons.dev/icons?i=react,nodejs,express,mysql,html,css,js,tailwind,K6)
 
 ### ⚙️ DevOps & Server Tools
 ![Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,vercel,azure)
