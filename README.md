@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Meriem Selmoune
 
-Final-year Computer Science student at Université d'Alger USTHB / Benyoucef Ben Khedda, 
+Final-year Computer Science student at Université d'Alger 1 Benyoucef Ben Khedda, 
 currently looking for a **final-year internship (PFE)**.
 
 ### What I work with
